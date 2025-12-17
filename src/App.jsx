@@ -1,4 +1,4 @@
-import Header from './components/Header'
+import Header from './components/Header.jsx'
 import Aliances from "./Components/Aliances.jsx";
 import Brands from "./Components/Brands.jsx";
 import Figures from "./Components/Figures.jsx";
