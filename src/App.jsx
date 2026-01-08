@@ -6,6 +6,9 @@ import VideoInfo from "./Components/VideoInfo.jsx";
 import Vision from "./Components/Vision.jsx";
 import Mission from "./Components/Mission.jsx";
 import Donations from "./Components/Donations.jsx";
+import Slider from  "./Components/Slider.jsx";
+import Team from './Components/Team.jsx';
+import Activities from './Components/Activities.jsx';
 
 export default function App(){
     return (
@@ -18,6 +21,9 @@ export default function App(){
             <Vision/>
             <Mission/>
             <Donations/>
+            <Slider/>
+            <Team/>
+            <Activities/>
         </>
     )
 }
